@@ -1,0 +1,52 @@
+{
+  "inventario": [
+    {
+      "id": 1,
+      "nombre": "T-shirt",
+      "caracteristica": "Rojo",
+      "precio": 150
+    },
+    {
+      "id": 2,
+      "nombre": "V-shirt",
+      "caracteristica": "Rojo y blanco",
+      "precio": 250
+    },
+    {
+      "nombre": "Polo-Shirt",
+      "caracteristica": "Negro-Blanco",
+      "precio": "250",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Sudadera NIKE",
+      "caracteristica": "Azul marino",
+      "precio": "1200"
+    },
+    {
+      "id": 5,
+      "nombre": "Chaqueta",
+      "caracteristica": "Cuero-Negra",
+      "precio": "2900"
+    },
+    {
+      "id": 6,
+      "nombre": "Tenis CONVERSE",
+      "caracteristica": "Morado rasgado",
+      "precio": "3000"
+    },
+    {
+      "id": 8,
+      "nombre": "Iphone X",
+      "caracteristica": "Blanco + Cover",
+      "precio": "40000"
+    },
+    {
+      "id": 9,
+      "nombre": "Sony Xperia z3",
+      "caracteristica": "Negro",
+      "precio": "8000"
+    }
+  ]
+}
